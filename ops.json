@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "42f33f10-b71d-34c7-bc3a-d067ded9d97b",
+    "name": "Perfo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c51072a0-7bb5-36a4-a424-618be7c8d512",
+    "name": "BerkeEdali",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
